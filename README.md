@@ -2,7 +2,7 @@ Notes App
 ===================================
 
 This app displays a list of notes and their related data that the user inputs.
-Used in a Udacity course in the Android Basics Nanodegree by Google.
+Practising Udacity course in the Android Basics Nanodegree by Google.
 
 Pre-requisites
 --------------
